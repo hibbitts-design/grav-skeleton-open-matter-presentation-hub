@@ -32,5 +32,5 @@ Grav Open Presentation Hub Screenshots
 ![Presentation Hub Screenshot](screenshot.jpg)  
 _Figure 1. Example Grav Open Presentation Hub website. Explore an example open matter presentation hub site at [demo.hibbittsdesign.org/grav-open-matter-presentation-hub/](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/)._
 
-![Presentation Fullscreen Presentation View](/assets/fullscreen-presentation-view.jpg)  
+![MultiCourse Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/fullscreen-presentation-view.jpg?raw=true)  
 _Figure 2. Example fullscreen Presentation view.
