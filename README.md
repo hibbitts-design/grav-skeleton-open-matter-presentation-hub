@@ -30,4 +30,7 @@ Quick Install Instructions
 Grav Open Presentation Hub Screenshots
 ---
 ![Presentation Hub Screenshot](screenshot.jpg)  
-Example Grav Open Presentation Hub website. Explore an example open matter presentation hub site at [demo.hibbittsdesign.org/grav-open-matter-presentation-hub/](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/).
+_Figure 1. Example Grav Open Presentation Hub website. Explore an example open matter presentation hub site at [demo.hibbittsdesign.org/grav-open-matter-presentation-hub/](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/)._
+
+![Presentation Fullscreen Presentation View](/assets/fullscreen-presentation-view.jpg)  
+_Figure 2. Example fullscreen Presentation view.
