@@ -33,5 +33,5 @@ custommenu:
     target: _blank
 theme_stylesheet: default
 navbar_bg: default
-navbar_bg_color: '#353a3f'
+navbar_bg_color: '#3590F3'
 git_sync_edit_theme_link_location: none
