@@ -5,7 +5,7 @@ visible: false
 cache_enable: false
 ---
 
-### Getting Started
+### 🚀Getting Started
 
 #### Want to create a new Presentation?
 
