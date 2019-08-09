@@ -8,7 +8,7 @@ taxonomies:
   - tag
   - author
 metadata:
-  description: 'A short description of your Presentatiob hub would go here'
+  description: 'A short description of your Open Presentation Hub would go here'
 summary:
   enabled: true
   format: short
