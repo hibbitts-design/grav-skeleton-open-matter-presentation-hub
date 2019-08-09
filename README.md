@@ -38,7 +38,7 @@ _Figure 2. Example Presentation for embedding. Explore an example presentation f
 ![Fullscreen Presentation Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/fullscreen-presentation-view.jpg?raw=true)  
 _Figure 3. Example fullscreen Presentation view. Explore an example presentation in fullscreen view at [demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/presentations/placeholder-slides](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/presentations/placeholder-slides)._
 
-![Open Presentation Hub Pages Dashboard](https://github.com/paulhibbitts/github-repo-images/blob/master/presentation-hub-dashboard.jpg?raw=true)  
+![Open Presentation Hub Pages Dashboard](https://github.com/paulhibbitts/github-repo-images/blob/master/presentation-hub-dashboard.png?raw=true)  
 _Figure 4. Open Presentation Hub pages dashboard._
 
 ![Example Presentation Page](https://github.com/paulhibbitts/github-repo-images/blob/master/presentation-page.png?raw=true)  
