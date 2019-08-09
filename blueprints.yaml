@@ -1,5 +1,5 @@
 name: Open Matter Presentation Hub Site
-version: 0.9.0
+version: 0.9.1
 description: "Grav Open Presentation Hub with Git Sync is designed to help create and host Markdown-based slides created with Ole Vik's Presentation Plugin, which uses the Reveal.js Presentation Framework."
 icon: arrows-alt
 author:
