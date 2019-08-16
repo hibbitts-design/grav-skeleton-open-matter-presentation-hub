@@ -52,10 +52,6 @@ add_modals:
     label: 'Add Presentations List'
     blueprint: admin/pages/new_presentation_list
     show_in: bar
-  -
-    label: 'Add Page with Sidebar'
-    blueprint: admin/pages/new_page
-    show_in: bar
 hide_page_types:
   - customcontentlist
   - default
