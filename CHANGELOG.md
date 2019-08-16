@@ -1,3 +1,10 @@
+# v1.0.1
+## 08/16/2019
+
+1. [](#improved)
+    * Updated skeleton blueprint description
+    * Streamlined Admin Button Bar
+
 # v1.0.0
 ## 08/16/2019
 
