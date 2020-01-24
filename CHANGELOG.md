@@ -1,3 +1,11 @@
+# v1.0.4
+## 01/24/2020
+
+1. [](#new)
+    * Support for multiple-page subsites, with one or more Presentations
+1. [](#improved)
+    * Updated example demo pages (incuding new subsite support)
+
 # v1.0.3
 ## 01/21/2020
 
