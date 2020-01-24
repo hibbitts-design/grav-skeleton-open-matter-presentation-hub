@@ -1,10 +1,10 @@
 ---
-title: Placeholder Slides Title
+title: Developing and Sharing OER with Grav
 ---
 
 [.text: alignment(center)]
 
-# CPT 363
+# Developing and Sharing OER with Grav
 
 ### Placeholder Slides
 
@@ -15,11 +15,11 @@ title: Placeholder Slides Title
 
 [.background-color: #FFFFFF]
 
-![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
+![fit](https://getgrav-grav.netdna-ssl.com/user/pages/01.tour/_easy-to-use/001-dashboard.png)
 
 ---
 
-[youtube]https://www.youtube.com/watch?v=Nj6x01wg2WA[/youtube]
+[youtube]https://www.youtube.com/watch?v=SvWzquy8vBg[/youtube]
 
 ---
 
