@@ -1,14 +1,14 @@
 name: Open Matter Presentation Hub Site
-version: 1.0.4
+version: 1.0.5
 description: "Open Presentation Hub with Git Sync is designed to help create, publish, and share Markdown-based slides with the Reveal.js Presentation Plugin by Ole Vik. Includes the Bootstrap4 Open Matter theme."
 icon: arrows-alt
 author:
  name: Hibbitts Design
  email: hello@hibbittsdesign.org
- url: http://hibbittsdesign.org
+ url: https://hibbittsdesign.org
 homepage: https://github.com/hibbitts-design/grav-skeleton-open-matter-presentation-hub
-demo: http://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site
-docs: http://learn.hibbittsdesign.org/openpresentationhub
+demo: https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/
+docs: https://learn.hibbittsdesign.org/openpresentationhub
 keywords: open, collaborative, git, presentation, fullscreen, slides, slideshow, reveal.js
 bugs: http://github.com/hibbitts-design/grav-skeleton-open-matter-presentation-hub/issues
 license: MIT
