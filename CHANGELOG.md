@@ -1,3 +1,9 @@
+# v1.1.0
+## 01/26/2020
+
+1. [](#improved)
+    * Updated example demo pages
+
 # v1.0.5
 ## 01/25/2020
 
@@ -9,6 +15,7 @@
 
 1. [](#new)
     * Support for multiple-page subsites, with one or more Presentations
+    * Added 'Add Subsite' command to Admin Panel 'Add' dropdown menu
 1. [](#improved)
     * Updated example demo pages (incuding new subsite support)
 
