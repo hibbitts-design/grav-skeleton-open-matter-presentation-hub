@@ -32,7 +32,7 @@ Grav Open Presentation Hub Screenshots
 ![Presentation Hub Screenshot](screenshot.jpg)  
 _Figure 1. Example Grav Open Presentation Hub website. Explore an example open matter presentation hub site at [demo.hibbittsdesign.org/grav-open-matter-presentation-hub/](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/).
 
-![Presentation Page with Accompanying Resources Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/-presentation-resources.png?raw=true)  
+![Presentation Page with Accompanying Resources Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/presentation-resources.png?raw=true)  
 _Figure 2. Example Presentation Page with Resources. Explore an example presentation with accompanying resources at [https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/lf2020/home](https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/lf2020/home).
 
 ![Embedded Presentation Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/embedded-presentation-view.png?raw=true)  
