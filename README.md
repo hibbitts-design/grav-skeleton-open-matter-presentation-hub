@@ -35,7 +35,7 @@ _Figure 1. Example Grav Open Presentation Hub website. Explore an example open m
 ![Embedded Presentation Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/embedded-presentation-view.png?raw=true)  
 _Figure 2. Example Presentation for embedding. Explore an example presentation for embedding, with page title hidden, at [https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/lf2020/home/chromeless:true/hidepagetitle:true](https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/lf2020/home/chromeless:true/hidepagetitle:true)._
 
-![Fullscreen Presentation Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/fullscreen-presentation-view.jpg?raw=true)  
+![Fullscreen Presentation Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/fullscreen-presentation-view.png?raw=true)  
 _Figure 3. Example fullscreen Presentation view. Explore an example presentation in fullscreen view at [https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/lf2020/presentations/placeholder-slides](https://demo.hibbittsdesign.org/grav-open-matter-presentation-hub/lf2020/presentations/placeholder-slides)._
 
 ![Open Presentation Hub Pages Page](https://github.com/paulhibbitts/github-repo-images/blob/master/presentation-hub-dashboard.png?raw=true)  
