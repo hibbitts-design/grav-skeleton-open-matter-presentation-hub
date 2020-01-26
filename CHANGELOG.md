@@ -1,5 +1,5 @@
 # v1.1.0
-## 01/26/2020
+## 01/27/2020
 
 1. [](#improved)
     * Updated example demo pages
