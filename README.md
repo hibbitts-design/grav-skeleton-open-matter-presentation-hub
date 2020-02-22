@@ -7,11 +7,11 @@
 
 **Grav Open Presentation Hub** with Git Sync is designed to help create and host Markdown-based slides created with Ole Vik's [Presentation Plugin](https://github.com/OleVik/grav-plugin-presentation), which uses the [Reveal.js Presentation Framework](https://revealjs.com/#/). Built with the open source modern file-based [Grav CMS](http://getgrav.org).
 
-Information and Documentation
+📚Information and Documentation
 ---
 http://learn.hibbittsdesign.org/openpresentationhub
 
-Quick Install Instructions
+🚀Quick Install Instructions
 ---
 **Pre-flight Checklist**  
 
@@ -27,7 +27,7 @@ Quick Install Instructions
 5. Create your site administrator account when prompted  
 6. And you're done! (press the ![Right Arrow Circle Icon](https://github.com/paulhibbitts/github-repo-images/blob/master/fa-arrow-circle-right.png?raw=true) icon in the Admin Panel to preview site)
 
-Grav Open Presentation Hub Screenshots
+💻Grav Open Presentation Hub Screenshots
 ---
 ![Presentation Hub Screenshot](https://github.com/paulhibbitts/github-repo-images/blob/master/smartmockups_open-presentation-hub.png?raw=true)  
 _Example Grav Open Presentation Hub website. Explore an example open matter presentation hub site at [demo.hibbittsdesign.org/grav-open-matter-presentation-hub/](https://demo.hibbittsdesign.org/grav-skeleton-open-matter-presentation-hub-site/)._
