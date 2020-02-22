@@ -34,4 +34,4 @@ _Example Grav Open Presentation Hub website. Explore an example open matter pres
 
 💬 Share Your Feedback
 ---
-* Complete the [Learn2 with Git Sync Survey](https://forms.gle/68Kd4odtm94Uj6sC7)
+* Complete the [Open Presentation Hub Survey](https://forms.gle/68Kd4odtm94Uj6sC7)
