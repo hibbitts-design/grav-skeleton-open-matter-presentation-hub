@@ -1,3 +1,9 @@
+# v1.0.9
+## 07/03/2020
+
+1. [](#bugfix)
+    * Removed old Google font option for Grav 1.7 upgrade compatibility
+
 # v1.0.8
 ## 03/06/2020
 
