@@ -1,3 +1,9 @@
+# v1.1.2
+## 02/16/2021
+
+1. [](#bugfix)
+    * Updated new Subsite pages to be visible by default
+
 # v1.1.1
 ## 01/31/2021
 
