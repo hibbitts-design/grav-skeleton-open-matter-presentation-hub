@@ -1,3 +1,9 @@
+# v1.1.3
+## 02/25/2021
+
+1. [](#new)
+    * Built using new Grav GitHub Actions Workflow
+
 # v1.1.2
 ## 02/16/2021
 
