@@ -6,8 +6,9 @@ data/*
 !data/.*
 plugins/*
 !plugins/.*
-themes/*
-!themes/.*
+!themes/bootstrap4/.*
+themes/bootstrap4/*
+bootstrap4-open-matter
 localhost/*
 !localhost/.*
 
