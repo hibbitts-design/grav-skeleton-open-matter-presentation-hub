@@ -15,7 +15,7 @@ on:
         default: 'latest'
       admin:
         description: 'Create also a package with Admin'
-        required: true
+        required: false
         default: false
 
 jobs:
